@@ -32,7 +32,7 @@
 
 ## 5️⃣美化主页的学习
 我觉得这两个还是比较好看优秀的主页
-https://github.com/mmphego/mmphego
-https://github.com/Defcon27/Defcon27
+https://github.com/Defcon27
+https://github.com/lililiqing123
 
 我学会了如何添加一个GIF动图（但是对于更精致的动图制作还在学习中）以及添加一些表情使得主页更美观
