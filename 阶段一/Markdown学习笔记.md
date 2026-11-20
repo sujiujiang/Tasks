@@ -18,6 +18,8 @@
   5如果标题的自动生成的定位点与同一文档中的早期定位点相同，则通过追加连字符和自动递增整数来生成唯一标识符
 -  ......
 
+教程：[GIthub文档](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?f_link_type=f_linkinlinenote&flow_extra=eyJkb2NfaWQiOiIyMWEyNjRhNzkwNmM1ZGVlLTRlNjg3NDBlMjViYjIxZGYiLCJpbmxpbmVfZGlzcGxheV9wb3NpdGlvbiI6MCwiZG9jX3Bvc2l0aW9uIjowfQ%3D%3D)
+
 ## 3️⃣Markdown的局限及替代方案
 &emsp;&emsp;Markdown注重“作者优先”，使得创作回归内容，但就存在
 了相应的局限：
