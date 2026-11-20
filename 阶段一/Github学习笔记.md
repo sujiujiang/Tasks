@@ -9,7 +9,7 @@
 4. 乐于分享：愿意将所学所知所思所想和伙伴分享
 
 ## 2️⃣对GitHub的基础了解
-[【Github 零基础终极教程！】 https://www.bilibili.com/video/BV14Y3p6uE6b/?share_source=copy_web&vd_source=65395e63b59e33aad81eb7e9c37c75d1](https://example.com)
+[【Github 零基础终极教程！】](https://www.bilibili.com/video/BV14Y3p6uE6b/?share_source=copy_web&vd_source=65395e63b59e33aad81eb7e9c37c75d1)
 看到全英文界面我也是差点望而却步了呀，但是还好我搜索到了一个特别详细的教学
 1. GitHub有点像程序员的“小红书”，很多人在上面分享学习资料、免费软件还有资源库
 2. 可以通过trending界面了解GitHub里近期流行的趋向，或者搜索框搜索、其他网站或资源的推荐，这些方式可以从GitHub中获取资源
